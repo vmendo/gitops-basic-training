@@ -4,5 +4,4 @@ metadata:
   name: myapp
 data:
   index.html: |
-    Hello, human user!
-    This is a cumtom app!
+    This is a cumtom app rolled back!

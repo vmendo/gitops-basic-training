@@ -1,0 +1,7 @@
+piVersion: v1 
+kind: ConfigMap 
+metadata:
+  name: myapp
+data:
+  index.html: |
+    This is a cumtom app!
